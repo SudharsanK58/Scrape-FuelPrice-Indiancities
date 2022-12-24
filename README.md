@@ -36,3 +36,5 @@ Finally, the function removes the first 699 elements from the data list and retu
 - If you want to scrape a different website or modify the data that is being scraped, you will need to modify the BeautifulSoup code that searches for the relevant elements and extracts the data.
 - If the website you are scraping changes its HTML structure, you may need to update the BeautifulSoup code to ensure that it is still able to find the relevant elements.
 - Be mindful of the terms of use and robots.txt file of the website you are scraping. Some websites may prohibit web scraping or have limits on the amount of data that can be accessed. It is generally good practice to request permission before scraping a website.
+
+## Author - Sudharsan
